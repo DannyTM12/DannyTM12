@@ -14,4 +14,4 @@ Soy estudiante de Ingeniería en Computación Inteligente y docente, con un fuer
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DannyTM12&show_icons=true&theme=radium)
+![Estadísticas de GitHub](https://streak-stats.demolab.com/?user=DannyTM12&theme=radium&hide_border=true)

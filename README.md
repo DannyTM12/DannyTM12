@@ -2,7 +2,7 @@
 
 **ML Engineer · NLP & Applied Cybersecurity · Aguascalientes, México**
 
-Egresado de Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, explicabilidad de modelos y despliegue en producción. También docente de programación a nivel bachillerato.
+Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, explicabilidad de modelos y despliegue en producción. También docente de programación a nivel bachillerato.
 
 ---
 

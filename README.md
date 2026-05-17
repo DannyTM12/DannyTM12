@@ -56,15 +56,15 @@ Sistema de fusión tardía con mecanismo de gating para clasificación binaria d
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyTM12&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyTM12&layout=compact&theme=dark&hide_border=true)
-
+## 📌 Actualmente
+ 
+- 🔬 Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
+- 📚 Estudiando: SQL avanzado · Python para Data Science
+- 🎯 Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-daniel-torres-macías-608b8b209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdtm8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyTM12)

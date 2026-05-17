@@ -1,17 +1,70 @@
-# ¡Hola! Soy Daniel Torres
+# Daniel Torres · DannyTM12
 
-Soy estudiante de Ingeniería en Computación Inteligente y docente, con un fuerte enfoque en el desarrollo de software y el análisis de datos. 
+**ML Engineer · NLP & Applied Cybersecurity · Aguascalientes, México**
 
-### 🚀 Sobre mí
-- 💻 Trabajo principalmente con **Python, C++, SQL y Linux**.
-- 🎓 Desarrollando mi tesis enfocada en un sistema híbrido de detección de phishing.
-- 👨‍🏫 Compartiendo conocimiento sobre lógica de programación y cultura digitala grupos de preparatoria.
-- 📍 Desde Aguascalientes, México.
+Egresado de Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, explicabilidad de modelos y despliegue en producción. También docente de programación a nivel bachillerato.
 
-### 🛠️ Tecnologías y Herramientas
+---
+
+## 🛠 Stack
+
+**ML & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-6C3483?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 
-### 📈 Mis Estadísticas
-![Estadísticas de GitHub](https://streak-stats.demolab.com/?user=DannyTM12&theme=radium&hide_border=true)
+**Deployment & Dev**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Bases de datos & BI**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Proyecto principal
+
+### [PhishGuard](https://github.com/DannyTM12/phishguard) — Sistema híbrido de detección de phishing
+
+Sistema de fusión tardía con mecanismo de gating para clasificación binaria de correos electrónicos.
+
+- **MetaSubModel:** Random Forest sobre 32 features de metadatos técnicos → ROC-AUC 0.9121
+- **TextSubModel:** TF-IDF + Logistic Regression → ROC-AUC 0.9988
+- **Explicabilidad:** SHAP TreeExplainer con 94% de coincidencia respecto a juicio experto
+- **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
+- **Dataset:** 164,563 registros de 7 fuentes públicas, deduplicados por MD5
+
+---
+
+## 📂 Otros proyectos
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [UAAWorks](https://github.com/DannyTM12/UAAWorks) | Portafolio universitario — IA, datos y algoritmos | Python · Jupyter · C++ |
+| [HispanicWomen](https://github.com/DannyTM12/HispanicWomen) | Web scraping para dashboard de Mujer Hispana | Python · pandas |
+| [mi-portafolio](https://github.com/DannyTM12/mi-portafolio) | Sitio web personal y portafolio | CSS · HTML |
+
+---
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyTM12&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyTM12&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdtm8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyTM12)

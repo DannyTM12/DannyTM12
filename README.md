@@ -1,5 +1,4 @@
 # Daniel Torres · DannyTM12
-
 **ML Engineer · NLP & Applied Cybersecurity · Aguascalientes, México**
 
 Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, explicabilidad de modelos y despliegue en producción. También docente de programación a nivel bachillerato.
@@ -24,6 +23,11 @@ Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+**Frontend & Extensiones**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 **Bases de datos & BI**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,15 +38,21 @@ Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de
 
 ## 🚀 Proyecto principal
 
-### [PhishGuard](https://github.com/DannyTM12/phishguard) — Sistema híbrido de detección de phishing
+### [PhishGuard](https://github.com/DannyTM12/email-threat-classifier) — Sistema end-to-end de detección de phishing
 
-Sistema de fusión tardía con mecanismo de gating para clasificación binaria de correos electrónicos.
+Proyecto que nació como tesina de licenciatura y evolucionó hacia un sistema completo de detección de phishing con capa de producto: API de inferencia, extensión de navegador y dashboard de monitoreo.
 
+**Núcleo ML (tesina)**
 - **MetaSubModel:** Random Forest sobre 32 features de metadatos técnicos → ROC-AUC 0.9121
 - **TextSubModel:** TF-IDF + Logistic Regression → ROC-AUC 0.9988
+- **Fusión tardía con gating** (`θ_meta = 0.70`): evita inferencia NLP en casos de alta confianza
 - **Explicabilidad:** SHAP TreeExplainer con 94% de coincidencia respecto a juicio experto
-- **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
 - **Dataset:** 164,563 registros de 7 fuentes públicas, deduplicados por MD5
+
+**Capa de producto (en desarrollo)**
+- 🔌 **Extensión de navegador** (Chrome/Brave) — detección en tiempo real en Gmail y Outlook Web
+- 📊 **Dashboard** — monitoreo de predicciones, visualización SHAP y feedback loop
+- 🐳 **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
 
 ---
 
@@ -57,14 +67,16 @@ Sistema de fusión tardía con mecanismo de gating para clasificación binaria d
 ---
 
 ## 📌 Actualmente
- 
+
 - 🔬 Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
+- 🔌 Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
 - 📚 Estudiando: SQL avanzado · Python para Data Science
 - 🎯 Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026
+
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-daniel-torres-macías-608b8b209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-torres-macías-608b8b209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdtm8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DannyTM12)

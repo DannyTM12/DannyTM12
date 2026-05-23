@@ -1,7 +1,10 @@
 # Daniel Torres · DannyTM12
 **ML Engineer · NLP & Applied Cybersecurity · Aguascalientes, México**
 
-Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, explicabilidad de modelos y despliegue en producción. También docente de programación a nivel bachillerato.
+Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de 
+machine learning aplicados a ciberseguridad: detección de amenazas, 
+explicabilidad de modelos y despliegue en producción. 
+También docente de programación a nivel bachillerato.
 
 ---
 
@@ -23,11 +26,6 @@ Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Frontend & Extensiones**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 **Bases de datos & BI**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +38,9 @@ Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de
 
 ### [PhishGuard](https://github.com/DannyTM12/email-threat-classifier) — Sistema end-to-end de detección de phishing
 
-Proyecto que nació como tesina de licenciatura y evolucionó hacia un sistema completo de detección de phishing con capa de producto: API de inferencia, extensión de navegador y dashboard de monitoreo.
+Proyecto que nació como tesina de licenciatura y evolucionó hacia un sistema 
+completo de detección de phishing con capa de producto: API de inferencia, 
+extensión de navegador y dashboard de monitoreo.
 
 **Núcleo ML (tesina)**
 - **MetaSubModel:** Random Forest sobre 32 features de metadatos técnicos → ROC-AUC 0.9121
@@ -60,14 +60,13 @@ Proyecto que nació como tesina de licenciatura y evolucionó hacia un sistema c
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [moodle-cluster-rpi](https://github.com/DannyTM12/moodle-cluster-rpi) | Clúster de 5 nodos Raspberry Pi corriendo Moodle con NFS, MariaDB federada y balanceo Apache. 150 usuarios simultáneos, 30× menos consumo energético | Linux · MariaDB · Apache · NFS |
 | [UAAWorks](https://github.com/DannyTM12/UAAWorks) | Portafolio universitario — IA, datos y algoritmos | Python · Jupyter · C++ |
-| [HispanicWomen](https://github.com/DannyTM12/HispanicWomen) | Web scraping para dashboard de Mujer Hispana | Python · pandas |
-| [mi-portafolio](https://github.com/DannyTM12/mi-portafolio) | Sitio web personal y portafolio | CSS · HTML |
+| [mi-portafolio](https://github.com/DannyTM12/mi-portafolio) | Sitio web personal y portafolio | HTML · CSS · JavaScript |
 
 ---
 
 ## 📌 Actualmente
-
 - 🔬 Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
 - 🔌 Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
 - 📚 Estudiando: SQL avanzado · Python para Data Science

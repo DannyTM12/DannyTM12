@@ -8,7 +8,7 @@ También docente de programación a nivel bachillerato.
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **ML & Data**
 
@@ -34,7 +34,7 @@ También docente de programación a nivel bachillerato.
 
 ---
 
-## 🚀 Proyecto principal
+## Proyecto principal
 
 ### [PhishGuard](https://github.com/DannyTM12/email-threat-classifier) — Sistema end-to-end de detección de phishing
 
@@ -50,13 +50,13 @@ extensión de navegador y dashboard de monitoreo.
 - **Dataset:** 164,563 registros de 7 fuentes públicas, deduplicados por MD5
 
 **Capa de producto (en desarrollo)**
-- 🔌 **Extensión de navegador** (Chrome/Brave) — detección en tiempo real en Gmail y Outlook Web
-- 📊 **Dashboard** — monitoreo de predicciones, visualización SHAP y feedback loop
-- 🐳 **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
+- **Extensión de navegador** (Chrome/Brave) — detección en tiempo real en Gmail y Outlook Web
+- **Dashboard** — monitoreo de predicciones, visualización SHAP y feedback loop
+- **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
 
 ---
 
-## 📂 Otros proyectos
+## Otros proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -66,15 +66,15 @@ extensión de navegador y dashboard de monitoreo.
 
 ---
 
-## 📌 Actualmente
-- 🔬 Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
-- 🔌 Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
-- 📚 Estudiando: SQL avanzado · Python para Data Science
-- 🎯 Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026
+## Actualmente
+- Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
+- Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
+- Estudiando: SQL avanzado · Python para Data Science
+- Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-torres-macías-608b8b209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosdtm8@gmail.com)

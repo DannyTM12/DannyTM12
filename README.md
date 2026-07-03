@@ -38,7 +38,7 @@ También docente de programación a nivel bachillerato.
 
 ### [PhishGuard](https://github.com/DannyTM12/email-threat-classifier) — Sistema end-to-end de detección de phishing
 
-Proyecto que nació como tesina de licenciatura y evolucionó hacia un sistema 
+Proyecto que nació como tesina de licenciatura y evolucionará hacia un sistema 
 completo de detección de phishing con capa de producto: API de inferencia, 
 extensión de navegador y dashboard de monitoreo.
 
@@ -67,7 +67,6 @@ extensión de navegador y dashboard de monitoreo.
 ---
 
 ## Actualmente
-- Finalizando tesina: **PhishGuard** — sistema híbrido de detección de phishing con fusión tardía y SHAP
 - Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
 - Estudiando: SQL avanzado · Python para Data Science
 - Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026

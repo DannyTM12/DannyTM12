@@ -1,10 +1,10 @@
 # Daniel Torres · DannyTM12
 **ML Engineer · NLP & Applied Cybersecurity · Aguascalientes, México**
 
-Ingeniería en Computación Inteligente (UAA '26). Me especializo en sistemas de 
-machine learning aplicados a ciberseguridad: detección de amenazas, 
-explicabilidad de modelos y despliegue en producción. 
-También docente de programación a nivel bachillerato.
+Ingeniero en Computación Inteligente egresado de la UAA (2026). Me especializo en 
+sistemas de machine learning aplicados a ciberseguridad: detección de amenazas, 
+explicabilidad de modelos y despliegue en producción. Actualmente en internship 
+remoto de Machine Learning en FlyRank.
 
 ---
 
@@ -17,6 +17,7 @@ También docente de programación a nivel bachillerato.
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-6C3483?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Deployment & Dev**
 
@@ -36,11 +37,12 @@ También docente de programación a nivel bachillerato.
 
 ## Proyecto principal
 
-### [PhishGuard](https://github.com/DannyTM12/email-threat-classifier) — Sistema end-to-end de detección de phishing
+### [PhishGuard](https://github.com/DannyTM12/phishguard) — Sistema de detección de phishing (tesina)
 
-Proyecto que nació como tesina de licenciatura y evolucionará hacia un sistema 
-completo de detección de phishing con capa de producto: API de inferencia, 
-extensión de navegador y dashboard de monitoreo.
+Proyecto de tesina de licenciatura: sistema de detección de phishing con fusión 
+tardía de modelos. Este repo queda congelado como entregable académico — todo 
+el desarrollo posterior (mejoras de modelo y capa de producto) vive en 
+[email-threat-classifier](https://github.com/DannyTM12/email-threat-classifier).
 
 **Núcleo ML (tesina)**
 - **MetaSubModel:** Random Forest sobre 32 features de metadatos técnicos → ROC-AUC 0.9121
@@ -49,10 +51,30 @@ extensión de navegador y dashboard de monitoreo.
 - **Explicabilidad:** SHAP TreeExplainer con 94% de coincidencia respecto a juicio experto
 - **Dataset:** 164,563 registros de 7 fuentes públicas, deduplicados por MD5
 
-**Capa de producto (en desarrollo)**
+---
+
+## Email Threat Classifier
+
+### [email-threat-classifier](https://github.com/DannyTM12/email-threat-classifier) — Evolución de PhishGuard hacia producto
+
+Iteración activa de PhishGuard: mejoras de modelo (XGBoost, DistilBERT, calibración 
+de probabilidad) y capa de producto completa.
+
 - **Extensión de navegador** (Chrome/Brave) — detección en tiempo real en Gmail y Outlook Web
 - **Dashboard** — monitoreo de predicciones, visualización SHAP y feedback loop
 - **Infraestructura:** FastAPI · Docker · GitHub Actions CI · Git LFS
+
+---
+
+## FlyRank ML Internship
+
+### [flyrank-capstone](https://github.com/DannyTM12/flyrank-capstone) — Search Intelligence Capstone
+
+Proyecto de investigación aplicada sobre datos reales de búsqueda del dataset de FlyRank: 
+modelado predictivo, validación con splits time-aware, controles de fuga de datos, y 
+publicación como research paper reproducible.
+
+**Stack:** Python · DuckDB · scikit-learn · Hugging Face · GitHub Pages
 
 ---
 
@@ -60,6 +82,7 @@ extensión de navegador y dashboard de monitoreo.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [leetcode-python-exercise](https://github.com/DannyTM12/leetcode-python-exercise) | Práctica continua de algoritmos, estructuras de datos y SQL | Python · SQL |
 | [moodle-cluster-rpi](https://github.com/DannyTM12/moodle-cluster-rpi) | Clúster de 5 nodos Raspberry Pi corriendo Moodle con NFS, MariaDB federada y balanceo Apache. 150 usuarios simultáneos, 30× menos consumo energético | Linux · MariaDB · Apache · NFS |
 | [UAAWorks](https://github.com/DannyTM12/UAAWorks) | Portafolio universitario — IA, datos y algoritmos | Python · Jupyter · C++ |
 | [mi-portafolio](https://github.com/DannyTM12/mi-portafolio) | Sitio web personal y portafolio | HTML · CSS · JavaScript |
@@ -67,9 +90,10 @@ extensión de navegador y dashboard de monitoreo.
 ---
 
 ## Actualmente
-- Construyendo: extensión de navegador para PhishGuard (Chrome MV3 · Plasmo · TypeScript)
-- Estudiando: SQL avanzado · Python para Data Science
-- Próximo: **ISC2 Certified in Cybersecurity (CC)** — dic 2026
+- Cursando: internship remoto de Machine Learning en FlyRank — capstone de Search Intelligence
+- Construyendo: extensión de navegador para email-threat-classifier (Chrome MV3 · Plasmo · TypeScript)
+- Estudiando: SQL avanzado · Python para Data Science · Docker
+- Próximo: **EPAM DevOps Fundamentals** (sep 2026) · **ISC2 Certified in Cybersecurity (CC)** (dic 2026)
 
 ---
 

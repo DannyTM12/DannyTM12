@@ -82,7 +82,7 @@ publicación como research paper reproducible.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [leetcode-python-exercise](https://github.com/DannyTM12/leetcode-python-exercise) | Práctica continua de algoritmos, estructuras de datos y SQL | Python · SQL |
+| [leetcode-exercise](https://github.com/DannyTM12/LeetCode_Exercises) | Práctica continua de algoritmos, estructuras de datos y SQL | Python · SQL |
 | [moodle-cluster-rpi](https://github.com/DannyTM12/moodle-cluster-rpi) | Clúster de 5 nodos Raspberry Pi corriendo Moodle con NFS, MariaDB federada y balanceo Apache. 150 usuarios simultáneos, 30× menos consumo energético | Linux · MariaDB · Apache · NFS |
 | [UAAWorks](https://github.com/DannyTM12/UAAWorks) | Portafolio universitario — IA, datos y algoritmos | Python · Jupyter · C++ |
 | [mi-portafolio](https://github.com/DannyTM12/mi-portafolio) | Sitio web personal y portafolio | HTML · CSS · JavaScript |
